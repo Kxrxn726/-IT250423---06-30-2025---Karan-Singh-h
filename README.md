@@ -34,3 +34,24 @@ Search indicates that excel has a memory and file size limits.if spreadsheets is
 :(https://www.howtogeek.com/417902/how-to-troubleshoot-high-memory-usage-on-windows-10/):- The use of visuals and detailed instructions make it especially helpful, but there’s always room for more advanced solutions for power users who might want more control over processes and settings.
 
 :(https://www.windowscentral.com/how-fix-memory-leak-windows-10):-This site is very useful for those specifically dealing with memory leaks. The explanations are easy to understand and include some quick tips like updating drivers or adjusting settings. I found the inclusion of both software and hardware checks quite helpful. However, it might be too basic for users who are more familiar with advanced troubleshooting techniques. It’s great for solving memory issues but might leave more technical users wanting more in-depth advice.
+
+
+"Part C"
+General MS Windows Application Troubleshooting
+
+1:(https://support.microsoft.com/en-us/help/10556/windows-10-troubleshoot-problems-with-apps-from-microsoft-store):-This site is the best place for users seeking official solutions, especially for problems with Microsoft Store apps. The guidance is well-structured and suited for less tech-savvy users. One downside is that the solutions are often quite basic, and may not be helpful for more complex application issues.
+
+2: (https://www.techspot.com/guides/2015-how-to-fix-common-windows-10-app-problems/):-TechSpot provides excellent coverage of app-related issues, with a slightly more technical focus. If you’re someone who is comfortable working with system settings or troubleshooting tools like sfc /scannow, this guide is a great resource. It’s not as beginner-friendly as the others but is perfect for users who need more control over their troubleshooting process.
+
+3: (https://www.bleepingcomputer.com/news/microsoft/how-to-fix-windows-store-apps-that-wont-launch/):-BleepingComputer is a solid option for more advanced users, especially when it comes to fixing issues with apps not launching. They offer a deep dive into system issues that may be causing app failures, and their solutions are often more technical than others. This site might not be the best for absolute beginners but is great for users who want to go beyond basic fixes.
+
+4: (https://www.howtogeek.com/413046/how-to-fix-apps-that-arent-working-in-windows-10/):-How-To Geek is always a great resource, particularly because it’s designed for both beginner and intermediate users. Their guides are clear, detailed, and practical. The troubleshooting steps are easy to follow, and they often include helpful visuals. One potential downside is that they sometimes gloss over more advanced steps that could benefit experienced users.
+
+
+
+
+
+
+
+
+
