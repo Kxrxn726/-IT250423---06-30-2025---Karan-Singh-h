@@ -26,3 +26,11 @@ Explanation
 Search indicates that excel has a memory and file size limits.if spreadsheets is too large or contain complex formula excel may struggle to function properly. Error codes displayed can be crucial in dignosing the problem. Limutes RAM can hinder multitasking. Restarting the computer can clear memory used by applications and background processes. Keeping over 100 tabs open in chrome is a major contribution to memory consumption.
 
 
+"part B"
+3 Sites with basic MS window memory Troubleshooting
+
+:(https://support.microsoft.com/en-us/help/13951/windows-fix-memory-leaks):- This is a great resource for official and up-to-date information directly from the source. The steps provided are clear and easy to follow, especially for users who are not deeply familiar with Windows troubleshooting. The suggestions are practical, but it could benefit from more detailed examples or screenshots for less tech-savvy users. Still, it’s a reliable starting point.
+
+:(https://www.howtogeek.com/417902/how-to-troubleshoot-high-memory-usage-on-windows-10/):- The use of visuals and detailed instructions make it especially helpful, but there’s always room for more advanced solutions for power users who might want more control over processes and settings.
+
+:(https://www.windowscentral.com/how-fix-memory-leak-windows-10):-This site is very useful for those specifically dealing with memory leaks. The explanations are easy to understand and include some quick tips like updating drivers or adjusting settings. I found the inclusion of both software and hardware checks quite helpful. However, it might be too basic for users who are more familiar with advanced troubleshooting techniques. It’s great for solving memory issues but might leave more technical users wanting more in-depth advice.
