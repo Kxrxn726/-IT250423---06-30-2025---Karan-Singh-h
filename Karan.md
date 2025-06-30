@@ -2,7 +2,7 @@
 
 Support Case: Application Says it is running out of memory
 
-Part A: Questions to ask the end user
+"Part A": Questions to ask the end user
 
 Sources
 
@@ -46,6 +46,20 @@ General MS Windows Application Troubleshooting
 3: (https://www.bleepingcomputer.com/news/microsoft/how-to-fix-windows-store-apps-that-wont-launch/):-BleepingComputer is a solid option for more advanced users, especially when it comes to fixing issues with apps not launching. They offer a deep dive into system issues that may be causing app failures, and their solutions are often more technical than others. This site might not be the best for absolute beginners but is great for users who want to go beyond basic fixes.
 
 4: (https://www.howtogeek.com/413046/how-to-fix-apps-that-arent-working-in-windows-10/):-How-To Geek is always a great resource, particularly because it’s designed for both beginner and intermediate users. Their guides are clear, detailed, and practical. The troubleshooting steps are easy to follow, and they often include helpful visuals. One potential downside is that they sometimes gloss over more advanced steps that could benefit experienced users.
+
+
+**Question 2**
+Training on windows file explorer
+
+Recommended websites for tutorials on windows file explore
+
+1:-(https://answers.microsoft.com/en-us/windows/forum/all/file-explore-basics-tutorial/765c537b-22e6-4e52-a324-e02042dd6f28):-This official Microsoft page offers a comprehensive guide to understanding File Explorer, covering basic navigation, file management, and various tips.
+2:-(https://www.techradar.com/how-to/how-to-use-file-explorer-in-windows-10):-https://www.techradar.com/how-to/how-to-use-file-explorer-in-windows-10
+3:-(https://www.howtogeek.com/117839/the-ultimate-guide-to-windows-10s-file-explorer/):-How-To Geek's guide breaks down everything from the basics to more advanced features of File Explorer. It's a great resource for users looking to become more efficient.
+
+
+
+
 
 
 
